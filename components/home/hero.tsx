@@ -3,11 +3,11 @@ import { Button } from "@/components/ui/button";
 export default function Hero() {
   return (
     <section className="flex items-center justify-between pt-7">
-      <div className="md:block hidden">
+      <div className="md:block md:w-full hidden">
         <h2 className="text-9xl font-extrabold tracking-wide">FOR NEXT</h2>
         <h2 className="text-7xl font-extrabold pt-3">{"Let's"} Grow together !</h2>
       </div>
-      <div className="md:max-w-none max-w-xl mx-auto">
+      <div className="md:max-w-full max-w-xl mx-auto">
         <h1 className="md:text-5xl text-2xl sm:text-4xl font-bold md:text-left text-center">
           <span className="text-green-500">Grow</span> your
           <span className="text-theme"> business </span>
