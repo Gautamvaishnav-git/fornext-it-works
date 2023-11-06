@@ -5,7 +5,7 @@ export default function Hero() {
     <section className="flex items-center justify-between pt-7">
       <div className="md:block hidden">
         <h2 className="text-9xl font-extrabold tracking-wide">FOR NEXT</h2>
-        <h2 className="text-7xl font-extrabold pt-3">Let's Grow together !</h2>
+        <h2 className="text-7xl font-extrabold pt-3">{"Let's"} Grow together !</h2>
       </div>
       <div className="md:max-w-none max-w-xl mx-auto">
         <h1 className="md:text-5xl text-2xl sm:text-4xl font-bold md:text-left text-center">
