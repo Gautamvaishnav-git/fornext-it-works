@@ -1,0 +1,41 @@
+[
+  {
+    "category": "Web design",
+    "projects": [
+      {
+        "title": "Saida tech 👩‍🎓👨‍🎓",
+        "description": "Saida tech is an edtech platform that aims to provide quality education to students in the Middle East and North Africa region. We created a website for them that is both informative and engaging."
+      }
+    ]
+  },
+  {
+    "category": "Graphic design",
+    "projects": [
+      {
+        "title": "Dental Square 🦷",
+        "description": "Dental Square is a dental clinic in Lebanon. We created a logo for them that is both modern and professional."
+      },
+      {
+        "title": "BAHO Dairy farm 🐄",
+        "description": "BAHO Dairy farm is a dairy farm. We created a logo for them that is both modern and professional."
+      },
+      {
+        "title": "Take my news 📰",
+        "description": "Take my news is a news website. We created a logo for them that is both modern and professional."
+      },
+      {
+        "title": "Kamal Enterprises 🍲",
+        "description": "Kamal Enterprises is a company that sells and distributes food products. We created a logo for them that is both modern and professional."
+      }
+    ]
+  },
+  {
+    "category": "Poster",
+    "projects": [
+      {
+        "title": "Choc on the Rock 🍫",
+        "description": "Choc on the Rock is a chocolate shop. We created a poster for them that is both modern and professional."
+      }
+    ]
+  }
+]
